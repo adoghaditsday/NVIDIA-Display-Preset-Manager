@@ -63,7 +63,7 @@ dist\NvidiaColorPreset.exe
 
 ## Anti-cheat design boundary
 
-##The application was designed for users who frequently adjust display settings depending on what they are doing. A competitive gamer may prefer a high-vibrance profile that makes enemies easier to distinguish, while a video editor may require a more neutral color profile for accurate grading. Instead of manually adjusting settings each time, profiles can be saved and recalled instantly.
+## The application was designed for users who frequently adjust display settings depending on what they are doing. A competitive gamer may prefer a high-vibrance profile that makes enemies easier to distinguish, while a video editor may require a more neutral color profile for accurate grading. Instead of manually adjusting settings each time, profiles can be saved and recalled instantly.
 
 Features
 Save and load unlimited display presets
