@@ -63,4 +63,55 @@ dist\NvidiaColorPreset.exe
 
 ## Anti-cheat design boundary
 
+##The application was designed for users who frequently adjust display settings depending on what they are doing. A competitive gamer may prefer a high-vibrance profile that makes enemies easier to distinguish, while a video editor may require a more neutral color profile for accurate grading. Instead of manually adjusting settings each time, profiles can be saved and recalled instantly.
+
+Features
+Save and load unlimited display presets
+Brightness control
+Contrast control
+Gamma adjustment
+Digital Vibrance support through NVIDIA APIs
+Individual Red, Green, and Blue channel tuning
+System tray operation
+Customizable hotkeys for instant profile switching
+User-defined icons and themes
+Lightweight desktop application
+No overlays
+No game hooks
+No shader injection
+No modification of game files
+Designed For
+Gamers
+
+Different games often benefit from different visual settings. Competitive shooters may benefit from higher vibrance and contrast, while immersive single-player games may look better with softer color settings.
+
+Examples:
+
+Counter-Strike 2 competitive profile
+Escape From Tarkov visibility profile
+Racing simulator profile
+HDR-inspired profile
+Streaming profile
+Content Creators
+
+Editors frequently switch between color-sensitive work and general desktop usage.
+
+Examples:
+
+Photo editing profile
+Video grading profile
+SDR editing profile
+Review and approval profile
+General productivity profile
+Streamers
+
+Streamers often need separate settings for gameplay and content production.
+
+Examples:
+
+Streaming profile
+Recording profile
+Editing profile
+Competitive gaming profile
+
 This utility does not inject DLLs, draw overlays, hook game render APIs, modify shaders, or attach to game processes. It only changes desktop/display color state through Windows display APIs and NVIDIA NVAPI where available.
