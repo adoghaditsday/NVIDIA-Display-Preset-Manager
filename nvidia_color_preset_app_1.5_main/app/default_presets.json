@@ -1,0 +1,6 @@
+{
+  "Normal Color": {"brightness": 50, "contrast": 50, "gamma": 1.00, "digital_vibrance": 50, "red_channel": 100, "green_channel": 100, "blue_channel": 100, "notes": "Neutral desktop color baseline."},
+  "Gaming Vibrance": {"brightness": 55, "contrast": 55, "gamma": 1.05, "digital_vibrance": 70, "red_channel": 105, "green_channel": 103, "blue_channel": 100, "notes": "Slightly lifted desktop visibility without overlay/post-processing."},
+  "Streaming Color": {"brightness": 52, "contrast": 52, "gamma": 1.00, "digital_vibrance": 55, "red_channel": 100, "green_channel": 100, "blue_channel": 100, "notes": "Mild correction for capture/stream viewing."},
+  "Night Soft Color": {"brightness": 45, "contrast": 48, "gamma": 0.95, "digital_vibrance": 45, "red_channel": 105, "green_channel": 98, "blue_channel": 90, "notes": "Softer desktop preset for night use."}
+}
